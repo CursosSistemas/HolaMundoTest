@@ -11,3 +11,15 @@ C:\Users\Michael Asturias\source\repos\HolaMundoTest\HolaMundoTest\obj\Debug\net
 C:\Users\Michael Asturias\source\repos\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.dll
 C:\Users\Michael Asturias\source\repos\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.pdb
 C:\Users\Michael Asturias\source\repos\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.genruntimeconfig.cache
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\bin\Debug\netcoreapp3.1\HolaMundoTest.exe
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\bin\Debug\netcoreapp3.1\HolaMundoTest.deps.json
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\bin\Debug\netcoreapp3.1\HolaMundoTest.runtimeconfig.json
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\bin\Debug\netcoreapp3.1\HolaMundoTest.runtimeconfig.dev.json
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\bin\Debug\netcoreapp3.1\HolaMundoTest.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\bin\Debug\netcoreapp3.1\HolaMundoTest.pdb
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.AssemblyInfoInputs.cache
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.AssemblyInfo.cs
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.csproj.CoreCompileInputs.cache
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.dll
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.pdb
+C:\Users\Michael Asturias\Documents\GitHub\HolaMundoTest\HolaMundoTest\obj\Debug\netcoreapp3.1\HolaMundoTest.genruntimeconfig.cache

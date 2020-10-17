@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michael Asturias\\source\\repos\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj": {}
+    "C:\\Users\\Michael Asturias\\Documents\\GitHub\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michael Asturias\\source\\repos\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj": {
+    "C:\\Users\\Michael Asturias\\Documents\\GitHub\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Asturias\\source\\repos\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Asturias\\Documents\\GitHub\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj",
         "projectName": "HolaMundoTest",
-        "projectPath": "C:\\Users\\Michael Asturias\\source\\repos\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj",
+        "projectPath": "C:\\Users\\Michael Asturias\\Documents\\GitHub\\HolaMundoTest\\HolaMundoTest\\HolaMundoTest.csproj",
         "packagesPath": "C:\\Users\\Michael Asturias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Asturias\\source\\repos\\HolaMundoTest\\HolaMundoTest\\obj\\",
+        "outputPath": "C:\\Users\\Michael Asturias\\Documents\\GitHub\\HolaMundoTest\\HolaMundoTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michael Asturias\\AppData\\Roaming\\NuGet\\NuGet.Config",
